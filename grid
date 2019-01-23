@@ -1,7 +1,6 @@
-START(7,4)
-GOAL(7,4)
-oooxooox
-xxoooooo
-oooxooox
-xxoxoxxx
-oooxoxox
+START(0,0)
+GOAL(0,2)
+oooxo
+xxooo
+oooxo
+
